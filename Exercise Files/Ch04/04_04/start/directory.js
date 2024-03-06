@@ -12,3 +12,5 @@ if(fs.existsSync('file-here')) {
     }); 
 }
 
+console.log('hi')
+
